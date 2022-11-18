@@ -130,7 +130,7 @@
   <h2>Other Repos ↓</h2>
   <a href="https://github.com/SpooRe91?tab=repositories" target="_blank">
     <img
-      src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/PNG/github.png?raw=true"
+      src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/icons8-github-30.png?raw=true"
     />
   </a>
   <br />
