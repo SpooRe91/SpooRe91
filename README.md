@@ -143,11 +143,12 @@
   </a>
 <a href="https://github.com/SpooRe91" target="_blank">
     <img
-      src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/PNG/github.png?raw=true"/>
+      src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/icons8-github-30.png?raw=true"/>
   </a>
 <a href="https://dev.to/spoore91" target="_blank">
     <img
-      src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon//PNG/dev-dot-to.png?raw=true"
+      src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/4394314_dev_logo_logos_icon.png?raw=true"
+         
     />
   </a>
 </div>
