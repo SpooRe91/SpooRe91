@@ -40,6 +40,15 @@
             </td>
             <td> (1+) years</td>
         </tr>
+            <tr>
+            <td><img
+                    src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/vite-svgrepo-com.svg?raw=true">
+                VITE </td>
+            <td><img
+                    src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-85.png?raw=true">
+            </td>
+            <td> (1.5+) years</td>
+        </tr>
         <tr>
             <td><img
                     src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/angular.png?raw=true">
