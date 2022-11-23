@@ -47,7 +47,7 @@
             <td><img
                     src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-85.png?raw=true">
             </td>
-            <td> (1.5+) years</td>
+            <td> (1+) years</td>
         </tr>
         <tr>
             <td><img
