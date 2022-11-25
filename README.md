@@ -11,51 +11,49 @@
                 <h3>Skill</h3>
             </th>
             <th>
-                <h3>Proficiency</h3>
-            </th>
-            <th>
                 <h3>Experience</h3>
             </th>
         </tr>
         <tr>
-            <td><img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/javascript.png?raw=true">JavaScript </td>
-            <td><img src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-85.png?raw=true"></td>
+            <td><img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/javascript.png?raw=true">    JavaScript </td>
             <td> (1.5+) years</td>
         </tr>
         <tr>
             <td><img
                     src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/typescript.png?raw=true">
                 TypeScript </td>
-            <td><img
-                    src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-65.png?raw=true">
-            </td>
             <td> (1+) years</td>
         </tr>
         <tr>
             <td><img
                     src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true">
                 React </td>
-            <td><img
-                    src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-85.png?raw=true">
-            </td>
             <td> (1+) years</td>
+        </tr>
+            <tr>
+            <td><img
+                    src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/node-dot-js.svg?raw=true">
+                NODE.JS </td>
+            <td> (1.5+) years</td>
+        </tr>
+        </tr>
+            <tr>
+            <td><img
+                    src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/npm.svg?raw=true">
+                NPM </td>
+            <td> (1.5+) years</td>
+        </tr>
         </tr>
             <tr>
             <td><img
                     src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/vite-svgrepo-com.svg?raw=true">
                 VITE </td>
-            <td><img
-                    src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-85.png?raw=true">
-            </td>
-            <td> (1+) years</td>
+            <td> (0.8+) years</td>
         </tr>
         <tr>
             <td><img
                     src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/angular.png?raw=true">
                 Angular </td>
-            <td><img
-                    src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-40.png?raw=true">
-            </td>
             <td> (0.5) years</td>
         </tr>
         <tr></tr>
@@ -65,9 +63,6 @@
             <td><img
                     src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true">
                 SASS </td>
-            <td><img
-                    src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-85.png?raw=true">
-            </td>
             <td> (1+) years</td>
         </tr>
         <tr></tr>
@@ -75,9 +70,6 @@
             <td><img
                     src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true">
                 CSS </td>
-            <td><img
-                    src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-85.png?raw=true">
-            </td>
             <td> (1.5+) years</td>
         </tr>
         <tr></tr>
@@ -85,9 +77,6 @@
             <td><img
                     src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/html5.png?raw=true">
                 HTML </td>
-            <td><img
-                    src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/progress-bar-small/progress-bar-95.png?raw=true">
-            </td>
             <td> (1.5+) years</td>
         </tr>
     </table>
