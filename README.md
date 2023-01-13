@@ -171,7 +171,7 @@
     <li>
       June 27, 2022 -
       <a href="https://cook-blog-d3ed8.web.app/" target="_blank"
-        ><strong>Cooking recipes blog (server is down)</strong></a
+        ><strong>Cooking recipes blog</strong></a
       >
       <a
         href="https://github.com/SpooRe91/react-js-project-final"
