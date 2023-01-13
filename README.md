@@ -188,6 +188,30 @@
         src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/programming/PNG/node-dot-js.png?raw=true"
       />
     </li>
+    <li>
+      November 01, 2022 -
+      <a href="https://angular-cook-blog.web.app/" target="_blank"
+        ><strong>Cooking recipes blog</strong></a
+      >
+      <a
+        href="https://github.com/SpooRe91/react-js-project-final"
+        target="_blank"
+        >[Code here]</a
+      >
+      <img
+        src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true"
+      />
+      <img
+        src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true"
+      />
+      <img
+        src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/programming/PNG/node-dot-js.png?raw=true"
+      />
+        <img
+        src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/angular.png?raw=true"
+      />
+        
+    </li>
   </ul>
   <hr />
   <br />
