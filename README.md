@@ -199,9 +199,6 @@
         >[Code here]</a
       >
       <img
-        src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true"
-      />
-      <img
         src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true"
       />
       <img
@@ -210,7 +207,6 @@
         <img
         src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/angular.png?raw=true"
       />
-        
     </li>
   </ul>
   <hr />
