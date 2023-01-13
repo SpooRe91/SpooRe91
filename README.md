@@ -205,6 +205,8 @@
         src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/programming/PNG/node-dot-js.png?raw=true"
       />
         <img
+          src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true">
+        <img
         src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/angular.png?raw=true"
       />
     </li>
