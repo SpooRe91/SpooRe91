@@ -138,9 +138,6 @@
   <a href="https://code.visualstudio.com" rel="nofollow">
     <img alt="Visual Studio Code" src="https://camo.githubusercontent.com/f53628686f10ddabc221f47e91499adfaaed5663511900009deb71bd3c873236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;">
   </a>
-  <a href="https://www.figma.com" rel="nofollow"> 
-    <img alt="Figma" src="https://camo.githubusercontent.com/fd8f209750c9267374bc87ca8fc392d78e01d723fe200d66e6d9899421f6e5cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E?&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;">
-  </a>
   <a href="https://fontawesome.com" rel="nofollow"> 
     <img alt="Font Awesome" src="https://camo.githubusercontent.com/f41213d9f52be77fdbb87d689b1a480c221f9db1164e3df15db35fb066d153e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466f6e745f417765736f6d652d3333394146303f6c6f676f3d666f6e74617765736f6d65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Font_Awesome-339AF0?logo=fontawesome&amp;logoColor=white" style="max-width: 100%;">
   </a>
