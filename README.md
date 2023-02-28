@@ -150,7 +150,7 @@
     <li>
       August 23, 2022 -
       <a href="https://destiny-2-bgs.web.app/" target="_blank"
-        ><strong>Destiny 2 Clan website (work in progress...)</strong></a
+        ><strong>[App here]</strong></a
       >
       <a href="https://github.com/SpooRe91/destiny2-react" target="_blank"
         >[Code here]</a
@@ -167,9 +167,9 @@
     </li>
     <li>
       June 27, 2022 -
-      <a href="https://cook-blog-d3ed8.web.app/" target="_blank"
-        ><strong>Cooking recipes blog</strong></a
-      >
+      <a href="https://mb-cookblog.vercel.app/" rel="noopener" target="_blank"
+        ><strong>[App here]</strong></a
+      > - PLEASE WAIT UNTIL THE SERVER STARTS UP ~30sec
       <a
         href="https://github.com/SpooRe91/react-js-project-final"
         target="_blank"
@@ -188,10 +188,10 @@
     <li>
       November 01, 2022 -
       <a href="https://angular-cook-blog.web.app/" target="_blank"
-        ><strong>Cooking recipes blog</strong></a
-      >
+        ><strong>[App here]</strong></a
+      > - PLEASE WAIT UNTIL THE SERVER STARTS UP ~30sec
       <a
-        href="https://github.com/SpooRe91/react-js-project-final"
+        href="https://github.com/SpooRe91/angular-cook-blog"
         target="_blank"
         >[Code here]</a
       >
@@ -206,6 +206,22 @@
         <img
         src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/angular.png?raw=true"
       />
+    </li>
+        <li>
+      November 23, 2022 -
+      <a href="https://mb-todo.vercel.app" target="_blank"
+        ><strong>[App here]</strong></a
+      >
+      <a
+        href="https://github.com/SpooRe91/MB-TODO-vite"
+        target="_blank"
+        >[Code here]</a
+      >
+<img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true">
+<img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/typescript.png?raw=true">
+<img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/redux%2Boriginal-1324760569678085188.png?raw=true">
+<img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/vite-svgrepo-com.svg?raw=true">
+<img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true">
     </li>
   </ul>
   <hr />
