@@ -30,6 +30,11 @@
                 React </td>
             <td> (1+) years</td>
         </tr>
+         <tr>
+            <td><img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/redux%2Boriginal-1324760569678085188.png?raw=true">
+                Redux </td>
+            <td> (0.5) years</td>
+        </tr>
             <tr>
             <td><img
                     src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/node-dot-js.svg?raw=true">
