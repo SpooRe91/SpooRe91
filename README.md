@@ -153,6 +153,7 @@
   <h2>Recent projects↓</h2>
   <ul>
     <li>
+**Destiny 2 clan app**
       August 23, 2022 -
       <a href="https://destiny-2-bgs.web.app/" target="_blank"
         ><strong>[App here]</strong></a
@@ -171,6 +172,7 @@
       />
     </li>
     <li>
+**React cook blog project**
       June 27, 2022 -
       <a href="https://mb-cookblog.vercel.app/" rel="noopener" target="_blank"
         ><strong>[App here]</strong></a
@@ -191,6 +193,7 @@
       />
     </li>
     <li>
+**Angular cook blog** 
       November 01, 2022 -
       <a href="https://angular-cook-blog.web.app/" target="_blank"
         ><strong>[App here]</strong></a
@@ -213,6 +216,7 @@
       />
     </li>
         <li>
+**Simple To Do app**
       November 23, 2022 -
       <a href="https://mb-todo.vercel.app" target="_blank"
         ><strong>[App here]</strong></a
@@ -227,6 +231,34 @@
 <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/redux%2Boriginal-1324760569678085188.png?raw=true">
 <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/vite-svgrepo-com.svg?raw=true">
 <img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true">
+    </li>
+            <li>
+**Simple calculator**
+      <a href="https://mysimplecalc.vercel.app" target="_blank"
+        ><strong>[App here]</strong></a
+      >
+      <a
+        href="https://github.com/SpooRe91/myCalculator"
+        target="_blank"
+        >[Code here]</a
+      >
+<img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true">
+<img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/html5.png?raw=true">
+<img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/javascript.png?raw=true">
+    </li>
+        </li>
+            <li>
+         ** Simple React stopwatch **
+      <a href="https://simple-stopwatch.vercel.app" target="_blank"
+        ><strong>[App here]</strong></a
+      >
+      <a
+        href="https://github.com/SpooRe91/react-stopwatch"
+        target="_blank"
+        >[Code here]</a
+      >
+<img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true">
+<img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true">
     </li>
   </ul>
   <hr />
