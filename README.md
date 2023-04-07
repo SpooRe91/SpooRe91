@@ -16,7 +16,7 @@
         </tr>
         <tr>
             <td><img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/javascript.png?raw=true">    JavaScript </td>
-            <td> (1.5+) years</td>
+            <td> (2+) years</td>
         </tr>
         <tr>
             <td><img
@@ -33,7 +33,7 @@
          <tr>
             <td><img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/redux%2Boriginal-1324760569678085188.png?raw=true">
                 Redux </td>
-            <td> (0.5) years</td>
+            <td> (0.8) years</td>
         </tr>
             <tr>
             <td><img
@@ -68,7 +68,7 @@
             <td><img
                     src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true">
                 SASS </td>
-            <td> (1+) years</td>
+            <td> (1.2+) years</td>
         </tr>
         <tr></tr>
         <tr>
