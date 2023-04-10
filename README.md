@@ -1,89 +1,72 @@
 #### Hi there 👋 I'm Martin and I am a -Junior full-stack web developer
 
 <hr>
-    <h4> At the moment I am woriking with the below mentioned technologies mainly.</h4>
-    <h2>IDE: <img style="height: 1rem"
-            src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/programming/PNG/visualstudiocode.png?raw=true">
-        VS CODE</h2>
-    <table width="100%">
-        <tr>
-            <th>
-                <h3>Skill</h3>
-            </th>
-            <th>
-                <h3>Experience</h3>
-            </th>
-        </tr>
-        <tr>
-            <td><img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/javascript.png?raw=true">    JavaScript </td>
-            <td> (2+) years</td>
-        </tr>
-        <tr>
-            <td><img
-                    src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/typescript.png?raw=true">
-                TypeScript </td>
-            <td> (1+) years</td>
-        </tr>
-        <tr>
-            <td><img
-                    src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true">
-                React </td>
-            <td> (1+) years</td>
-        </tr>
-         <tr>
-            <td><img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/redux%2Boriginal-1324760569678085188.png?raw=true">
-                Redux </td>
-            <td> (0.8) years</td>
-        </tr>
-            <tr>
-            <td><img
-                    src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/node-dot-js.svg?raw=true">
-                NODE.JS </td>
-            <td> (1.5+) years</td>
-        </tr>
-        </tr>
-            <tr>
-            <td><img
-                    src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/npm.svg?raw=true">
-                NPM </td>
-            <td> (1.5+) years</td>
-        </tr>
-        </tr>
-            <tr>
-            <td><img
-                    src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/vite-svgrepo-com.svg?raw=true">
-                VITE </td>
-            <td> (0.8+) years</td>
-        </tr>
-        <tr>
-            <td><img
-                    src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/angular.png?raw=true">
-                Angular </td>
-            <td> (0.5) years</td>
-        </tr>
-        <tr></tr>
-        <tr></tr>
-       <tr></tr>
-        <tr>
-            <td><img
-                    src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true">
-                SASS </td>
-            <td> (1.2+) years</td>
-        </tr>
-        <tr></tr>
-        <tr>
-            <td><img
-                    src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true">
-                CSS </td>
-            <td> (1.5+) years</td>
-        </tr>
-        <tr></tr>
-        <tr>
-            <td><img
-                    src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/html5.png?raw=true">
-                HTML </td>
-            <td> (1.5+) years</td>
-        </tr>
+<h4> At the moment I am woriking with the below mentioned technologies mainly.</h4>
+<h2>IDE: <img style="height: 1rem" src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/programming/PNG/visualstudiocode.png?raw=true"> VS CODE</h2>
+<table width="100%">
+    <tr>
+    <td>
+        <img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/javascript.png?raw=true"> 
+        JavaScript 
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/typescript.png?raw=true">
+        TypeScript
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true">
+        React
+    </td>
+    <td style="flex-direction:column">
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/nextjs.png?raw=true" style="width: 32px; height:32px">
+        Next 
+    </td>
+    <td>
+    <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/redux%2Boriginal-1324760569678085188.png?raw=true"> 
+        Redux 
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/angular.png?raw=true"> 
+        Angular 
+    </td>
+    <td> 
+        <img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/html5.png?raw=true"> 
+        HTML
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true"> 
+        CSS 
+    </td>
+    <td>
+        <img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true"> 
+        SASS 
+    </td>
+  <tr>
+    <td>
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/mongoDB%20icon.png?raw=true"> 
+        MongoDB 
+    </td>
+    <td> 
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/node-dot-js.svg?raw=true"> 
+        NODE.JS 
+    </td>
+    <td>
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/vite-svgrepo-com.svg?raw=true"> 
+        VITE 
+    </td>
+    <td>
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/firebase%20icon.png?raw=true"> 
+        Firebase 
+    </td>
+    <td>
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/git%20icon.png?raw=true"> 
+        Git 
+    </td>
+    <td>
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/npm.svg?raw=true">
+        NPM 
+    </td>
+  </tr>
     </table>
 <br/>
 <br/>
@@ -176,7 +159,7 @@ React cook blog project
       June 27, 2022 -
       <a href="https://mb-cookblog.vercel.app/" rel="noopener" target="_blank"
         ><strong>[App here]</strong></a
-      > - PLEASE WAIT UNTIL THE SERVER STARTS UP ~30sec
+      > - THE SERVER STARTS UP after ~5-10sec
       <a
         href="https://github.com/SpooRe91/react-js-project-final"
         target="_blank"
@@ -197,7 +180,7 @@ Angular cook blog
       November 01, 2022 -
       <a href="https://angular-cook-blog.web.app/" target="_blank"
         ><strong>[App here]</strong></a
-      > - PLEASE WAIT UNTIL THE SERVER STARTS UP ~30sec
+      > - THE SERVER STARTS UP after ~5-10sec
       <a
         href="https://github.com/SpooRe91/angular-cook-blog"
         target="_blank"
