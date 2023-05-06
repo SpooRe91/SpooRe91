@@ -231,3 +231,4 @@ Simple calculator
       src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/devWhite.png?raw=true"/>
   </a>
 </div>
+<a href="https://app.daily.dev/SpooRe91"><img src="https://api.daily.dev/devcards/ccd1707e9c0345d59c944da34aec0a50.png?r=tju" width="400" alt="Martin B.'s Dev Card"/></a>
