@@ -41,6 +41,10 @@
         <img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true"> 
         SASS 
     </td>
+    <td>
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/vite-svgrepo-com.svg?raw=true"> 
+        VITE 
+    </td>
   <tr>
     <td>
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/mocha_plain_logo_icon_146426.png?raw=true"> 
@@ -58,13 +62,13 @@
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/mongoDB%20icon.png?raw=true"> 
         MongoDB 
     </td>
+    <td>
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/postgre.png?raw=true"> 
+        PostgreSQL 
+    </td>
     <td> 
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/node-dot-js.svg?raw=true"> 
         NODE.JS 
-    </td>
-    <td>
-        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/vite-svgrepo-com.svg?raw=true"> 
-        VITE 
     </td>
     <td>
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/firebase%20icon.png?raw=true"> 
@@ -78,6 +82,10 @@
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/npm.svg?raw=true">
         NPM 
     </td>
+    <td>
+       <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/docker.png?raw=true">
+        Docker 
+   </td>
   </tr>
     </table>
 <br/>
