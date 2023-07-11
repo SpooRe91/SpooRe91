@@ -1,4 +1,4 @@
-#### Hi there 👋 I'm Martin and I am a -Junior full-stack web developer
+#### Hi there 👋 I'm Martin and I am a -Junior Javascript Web Developer
 
 <hr>
 <h4> At the moment I am woriking with the below mentioned technologies mainly.</h4>
