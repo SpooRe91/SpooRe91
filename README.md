@@ -105,6 +105,23 @@
   <hr />
   <h2>Recent projects↓</h2>
   <ul>
+      <li>
+Space-Explorer app - fetching recourses from NASA Api
+      May 18, 2023 -
+      <a href="https://mb-space-explorer.vercel.app/" target="_blank"
+        ><strong>[App here]</strong></a
+      >
+      <a href="https://github.com/SpooRe91/space-explorer" target="_blank"
+        >[Code here]</a
+      >
+<img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true">
+<img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/typescript.png?raw=true">
+<img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/redux%2Boriginal-1324760569678085188.png?raw=true">
+<img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/vite-svgrepo-com.svg?raw=true">
+<img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true">
+<img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/AXIOS%20LOGO.png?raw=true">
+<img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/MUI%20icon.PNG?raw=true">
+    </li>
     <li>
 Destiny 2 clan app
       August 23, 2022 -
