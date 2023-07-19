@@ -106,8 +106,8 @@
   <h2>Recent projects↓</h2>
   <ul>
       <li>
-Space-Explorer app - fetching recourses from NASA Api
-      May 18, 2023 -
+Space-Explorer app - fetching recourses from NASA Api.
+      Project started: May 18, 2023 -
       <a href="https://mb-space-explorer.vercel.app/" target="_blank"
         ><strong>[App here]</strong></a
       >
@@ -123,8 +123,8 @@ Space-Explorer app - fetching recourses from NASA Api
 <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/MUI%20icon.PNG?raw=true" title="Material UI">
     </li>
     <li>
-Destiny 2 clan app
-      August 23, 2022 -
+Destiny 2 clan app.
+      Project started: August 23, 2022 -
       <a href="https://destiny-2-bgs.web.app/" target="_blank"
         ><strong>[App here]</strong></a
       >
@@ -145,8 +145,8 @@ Destiny 2 clan app
       />
     </li>
     <li>
-React cook blog project
-      June 27, 2022 -
+React cook blog project.
+      Project started: June 27, 2022 -
       <a href="https://mb-cookblog.vercel.app/" rel="noopener" target="_blank"
         ><strong>[App here]</strong></a
       > - THE SERVER STARTS UP after ~5-10sec
@@ -166,8 +166,8 @@ React cook blog project
       />
     </li>
     <li>
-Angular cook blog 
-      November 01, 2022 -
+Angular cook blog .
+      Project started: November 01, 2022 -
       <a href="https://angular-cook-blog.web.app/" target="_blank"
         ><strong>[App here]</strong></a
       > - THE SERVER STARTS UP after ~5-10sec
@@ -189,8 +189,8 @@ Angular cook blog
       />
     </li>
         <li>
-Simple To Do app
-      November 23, 2022 -
+Simple To Do app.
+      Project started: November 23, 2022 -
       <a href="https://mb-todo.vercel.app" target="_blank"
         ><strong>[App here]</strong></a
       >
@@ -206,7 +206,8 @@ Simple To Do app
 <img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true">
     </li>
             <li>
-Simple calculator
+Simple calculator.
+Project started: Feb 8 2023 - 
       <a href="https://mysimplecalc.vercel.app" target="_blank"
         ><strong>[App here]</strong></a
       >
@@ -221,7 +222,8 @@ Simple calculator
     </li>
         </li>
             <li>
-         Simple React stopwatch
+         Simple React stopwatch. 
+Project started: Jun 28, 2022 -
       <a href="https://simple-stopwatch.vercel.app" target="_blank"
         ><strong>[App here]</strong></a
       >
