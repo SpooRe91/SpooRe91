@@ -45,6 +45,10 @@
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/vite-svgrepo-com.svg?raw=true"> 
         VITE 
     </td>
+    <td>
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/npm.svg?raw=true">
+        NPM 
+    </td>
   <tr>
     <td>
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/mocha_plain_logo_icon_146426.png?raw=true"> 
@@ -55,8 +59,16 @@
         Chai 
     </td>
     <td>
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/48eca20ae686dd6e5c456eae462393092fd81dbf/icons-and-graphics-main/icomoon/programming/PNG/RTL.png?raw=true"> 
+        RTL
+    </td>
+    <td>
+        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/vitest_logo_icon_249256.png?raw=true"> 
+        Vitest
+    </td>
+    <td>
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/cypress_logo_icon_247239.png?raw=true"> 
-        Cypress 
+        Cypress
     </td>
     <td>
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/mongoDB%20icon.png?raw=true"> 
@@ -77,10 +89,6 @@
     <td>
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/git%20icon.png?raw=true"> 
         Git 
-    </td>
-    <td>
-        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/npm.svg?raw=true">
-        NPM 
     </td>
     <td>
        <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/docker.png?raw=true">
