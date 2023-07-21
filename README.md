@@ -17,10 +17,10 @@
         <img src="https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true">
         React
     </td>
-    <td style="flex-direction:column">
+<!--     <td style="flex-direction:column">
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/nextjs.png?raw=true" style="width: 32px; height:32px">
         Next 
-    </td>
+    </td> -->
     <td>
     <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/redux%2Boriginal-1324760569678085188.png?raw=true"> 
         Redux 
