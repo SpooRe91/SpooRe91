@@ -1,5 +1,4 @@
 #### Hi there 👋 I'm Martin and I am a - Javascript Web Developer
-![](https://komarev.com/ghpvc/?username=SpooRe91)
 <hr>
 <h4> At the moment I am woriking with the below mentioned technologies mainly.</h4>
 <h2>IDE: <img style="height: 1rem" src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/programming/PNG/visualstudiocode.png?raw=true"> VS CODE</h2>
