@@ -173,6 +173,16 @@ React cook blog project.
         src="https://github.com/SpooRe91/icons-and-graphs/blob/main/icons-and-graphics-main/icomoon/programming/PNG/node-dot-js.png?raw=true"
       />
     </li>
+    <li>Node.js and Express js server
+      Project started: January Jan 13, 2023 -
+      <a href="https://mb-cook-server.vercel.app/" rel="noopener" target="_blank"
+        ><strong>[App here]</strong></a
+      > - THE SERVER STARTS UP after ~5-10sec
+      <a
+        href="https://github.com/SpooRe91/react-cook-server"
+        target="_blank"
+        >[Code here]</a>
+    </li>
     <li>
 Angular cook blog .
       Project started: November 01, 2022 -
