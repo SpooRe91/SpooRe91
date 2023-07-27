@@ -132,7 +132,7 @@ Space-Explorer app - fetching recourses from NASA Api.
     <li>
 Destiny 2 clan app.
       Project started: August 23, 2022 -
-      <a href="https://destiny-2-bgs.web.app/" target="_blank"
+      <a href="https://destiny2-bgs.vercel.app/" target="_blank"
         ><strong>[App here]</strong></a
       >
       <a href="https://github.com/SpooRe91/destiny2-react" target="_blank"
@@ -152,7 +152,7 @@ Destiny 2 clan app.
       />
     </li>
     <li>
-React cook blog project.
+React cook blog project. (no-responsive design)
       Project started: June 27, 2022 -
       <a href="https://mb-cookblog.vercel.app/" rel="noopener" target="_blank"
         ><strong>[App here]</strong></a
