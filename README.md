@@ -89,11 +89,6 @@
         <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/git%20icon.png?raw=true"> 
         Git 
     </td>
-    <td>
-       <img src="https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/docker.png?raw=true">
-        Docker 
-   </td>
-  </tr>
     </table>
 <br/>
 <br/>
