@@ -139,7 +139,7 @@ React cook blog project. (no-responsive design)
       Project started: June 27, 2022 -
       <a href="https://mb-cookblog.vercel.app/" rel="noopener" target="_blank"
         ><strong>[App here]</strong></a
-      > - THE SERVER STARTS UP after ~5-10sec
+      >
       <a
         href="https://github.com/SpooRe91/react-js-project-final"
         target="_blank"
@@ -159,7 +159,7 @@ React cook blog project. (no-responsive design)
       Project started: January Jan 13, 2023 -
       <a href="https://mb-cook-server.vercel.app/" rel="noopener" target="_blank"
         ><strong>[App here]</strong></a
-      > - THE SERVER STARTS UP after ~5-10sec
+      >
       <a
         href="https://github.com/SpooRe91/react-cook-server"
         target="_blank"
@@ -170,7 +170,7 @@ Angular cook blog .
       Project started: November 01, 2022 -
       <a href="https://angular-cook-blog.web.app/" target="_blank"
         ><strong>[App here]</strong></a
-      > - THE SERVER STARTS UP after ~5-10sec
+      >
       <a
         href="https://github.com/SpooRe91/angular-cook-blog"
         target="_blank"
