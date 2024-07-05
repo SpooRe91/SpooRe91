@@ -1,4 +1,4 @@
-# 🌟 Martin B. - Full-Stack Developer
+# 🌟 Martin B. - JS/TS Web Developer
 
 Welcome to my GitHub profile! I specialize in crafting web applications using a diverse set of modern technologies. Below, you'll find a snapshot of the tools I work with and a showcase of my recent projects.
 
