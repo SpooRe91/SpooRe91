@@ -1,4 +1,5 @@
 # 🌟 Martin B. - JS/TS Web Developer
+**Status:** Open to new opportunities 🚀
 
 Welcome to my GitHub profile! I specialize in crafting web applications using a diverse set of modern technologies. Below, you'll find a snapshot of the tools I work with and a showcase of my recent projects.
 
@@ -62,15 +63,7 @@ Feel free to explore my projects and connect with me!
 
 ---
 
-**License:** [MIT](https://opensource.org/licenses/MIT)
-
----
-
 **Contact Me:** [Email](mailto:m.bogdanov9110@gmail.com)
-
----
-
-**Status:** Open to new opportunities 🚀
 
 ---
 
