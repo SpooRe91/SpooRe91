@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I specialize in crafting web applications using a 
 * **Technologies:** ![React](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true) React, ![CSS3](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true) CSS
 
 ### [React Cook Blog](https://mb-cookblog.vercel.app/)
-* **Description:** A non-responsive cooking blog built with React.
+* **Description:** A cooking blog built with React (no responsive design).
 * **Links:** [App](https://mb-cookblog.vercel.app/) | [Code](https://github.com/SpooRe91/react-js-project-final)
 * **Technologies:** ![React](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true) React, ![CSS3](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true) CSS
 
