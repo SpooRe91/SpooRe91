@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I specialize in crafting web applications using a 
 
 ## 💻 Technologies I Work With
 
-| ![JavaScript](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/javascript.png?raw=true) | ![TypeScript](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/typescript.png?raw=true) | ![React](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true) | ![Redux](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/redux%2Boriginal-1324760569678085188.png?raw=true) | ![Angular](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/angular.png?raw=true) | ![HTML5](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/html5.png?raw=true) | ![CSS3](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true) |
-| --- | --- | --- | --- | --- | --- | --- |
-| JavaScript | TypeScript | React | Redux | Angular | HTML5 | CSS3 |
+| ![JavaScript](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/javascript.png?raw=true) | ![TypeScript](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/typescript.png?raw=true) | ![React](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true) | ![Redux](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/redux%2Boriginal-1324760569678085188.png?raw=true) | ![HTML5](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/html5.png?raw=true) | ![CSS3](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true) |
+| --- | --- | --- | --- | --- | --- |
+| JavaScript | TypeScript | React | Redux | HTML5 | CSS3 |
 
 | ![SASS](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true) | ![Vite](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/vite-svgrepo-com.svg?raw=true) | ![NPM](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/SVG/npm.svg?raw=true) | ![Mocha](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/mocha_plain_logo_icon_146426.png?raw=true) | ![Chai](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/chaijs_logo_icon_168435.png?raw=true) | ![RTL](https://github.com/SpooRe91/icons-and-graphics/blob/48eca20ae686dd6e5c456eae462393092fd81dbf/icons-and-graphics-main/icomoon/programming/PNG/RTL.png?raw=true) | ![Vitest](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/vitest_logo_icon_249256.png?raw=true) |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -34,21 +34,16 @@ Welcome to my GitHub profile! I specialize in crafting web applications using a 
 ### [Destiny 2 Clan App](https://destiny2-bgs.vercel.app/)
 * **Description:** A web application for Destiny 2 clans.
 * **Links:** [App](https://destiny2-bgs.vercel.app/) | [Code](https://github.com/SpooRe91/destiny2-react)
-* **Technologies:** ![React](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true) React, ![CSS3](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true) CSS,
+* **Technologies:** ![React](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true) React, ![CSS3](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true) CSS
 
 ### [React Cook Blog](https://mb-cookblog.vercel.app/)
 * **Description:** A non-responsive cooking blog built with React.
 * **Links:** [App](https://mb-cookblog.vercel.app/) | [Code](https://github.com/SpooRe91/react-js-project-final)
-* **Technologies:** ![React](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true) React, ![CSS3](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true) CSS,
+* **Technologies:** ![React](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true) React, ![CSS3](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true) CSS
 
-### [Angular Cook Blog](https://angular-cook-blog.web.app/)
-* **Description:** A cooking blog built with Angular.
-* **Links:** [App](https://angular-cook-blog.web.app/) | [Code](https://github.com/SpooRe91/angular-cook-blog)
-* **Technologies:** ![Angular](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/angular.png?raw=true) Angular, ![TypeScript](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/typescript.png?raw=true) TypeScript, ![SASS](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/sass.png?raw=true) SASS
-
-### [Node.js and Express Server](https://mb-cook-server.vercel.app/)
+### [Multi-tool-API: Node.js and Express API](https://mb-cook-server.vercel.app/)
 * **Description:** Backend server using Node.js and Express.js.
-* **Links:** [App](https://mb-cook-server.vercel.app/) | [Code](https://github.com/SpooRe91/react-cook-server)
+* **Links:** [App](https://mb-cook-server.vercel.app/) | [Code](https://github.com/SpooRe91/multi-tool-API)
 * **Technologies:** ![Node.js](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/node-dot-js.png?raw=true) Node.js, ![Express](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/icons8-express-js-16.png?raw=true) Express, ![MongoDB](https://github.com/SpooRe91/icons-and-graphics/blob/main/icons-and-graphics-main/icomoon/programming/PNG/mongoDB%20icon.png?raw=true) MongoDB
 
 ---
