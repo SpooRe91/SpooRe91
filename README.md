@@ -46,6 +46,11 @@ Welcome to my GitHub profile! I specialize in crafting web applications using a 
 * **Links:** [App](https://mb-cookblog.vercel.app/) | [Code](https://github.com/SpooRe91/react-js-project-final)
 * **Technologies:** ![React](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true) React, ![CSS3](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true) CSS
 
+### [React Stopwatch](https://simple-stopwatch.vercel.app/)
+* **Description:** A simple stopwatch/count timer.
+* **Links:** [App](https://simple-stopwatch.vercel.app/) | [Code](https://github.com/SpooRe91/react-stopwatch)
+* **Technologies:** ![React](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/react.png?raw=true) React, ![CSS3](https://raw.githubusercontent.com/SpooRe91/icons-and-graphs/main/icons-and-graphics-main/icomoon/programming/PNG/css3.png?raw=true) CSS
+
 ### [Multi-tool-API: Node.js and Express API](https://mb-cook-server.vercel.app/)
 * **Description:** Backend server using Node.js and Express.js.
 * **Links:** [App](https://mb-cook-server.vercel.app/) | [Code](https://github.com/SpooRe91/multi-tool-API)
